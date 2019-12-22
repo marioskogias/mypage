@@ -40,6 +40,9 @@ draft: true
   <dd>Google, Mountain View, July 2019</a></dd>
 
   <dt>Lancet: A self-correcting Latency Measuring Tool</dt>
+  <dd>MSR Redmond, July 2019</dd>
+
+  <dt>Lancet: A self-correcting Latency Measuring Tool</dt>
   <dd>VMWare, July 2019</dd>
 
   <dt>Lancet: A self-correcting Latency Measuring Tool</dt>
