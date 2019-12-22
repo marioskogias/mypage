@@ -1,0 +1,78 @@
+baseURL: https://example.com
+languageCode: en-us
+defaultContentLanguage: en
+title: Marios Kogias
+theme: cupper-hugo-theme
+googleAnalytics: UA-123456789-1
+disqusShortname: yourdiscussshortname
+enableGitInfo: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  post: /:filename/
+
+imaging:
+  quality: 99
+
+params:
+  mail: marios.kogias@epfl.ch
+  scholar: "[Google Scholar](https://scholar.google.com/citations?user=DYzTOKYAAAAJ&hl=el)"
+  github: "[marioskogias](https://github.com/marioskogias)"
+  #description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
+  #homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
+  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
+  # For more date formats see https://gohugo.io/functions/format/
+  #dateFormat: Jan 2, 2006
+  #codePenUser: someUser
+  #katex: true
+
+menu:
+  nav:
+    - name: About
+      url: /
+      weight: 1
+    - name: Projects
+      url: /projects/
+      weight: 2
+    - name: Publications
+      url: /pubs/
+      weight: 3
+    - name: Teaching
+      url: /teaching/
+      weight: 4
+    - name: CV
+      url: /marios_kogias_cv.pdf
+      weight: 5
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: false
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: monokai
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2

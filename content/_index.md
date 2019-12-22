@@ -1,1 +1,9 @@
-I'm a 5th year PhD student
+---
+title: "Marios Kogias"
+---
+
+I'm a 5th-year PhD student working with [Ed Bugnion](https://people.epfl.ch/edouard.bugnion) in [EPFL](https://www.epfl.ch/schools/ic/). I'm part of [DCSL](https://www.epfl.ch/labs/dcsl/).
+I'm supported by an [IBM PhD Felloship](https://www.research.ibm.com/university/awards/fellowships.html) and I lead the [TTL-MSR](https://www.microsoft.com/en-us/research/academic-program/swiss-joint-research-center/#!projects) Microsoft Swiss JRC program.
+
+My research focuses on datacenters and latency-critical systems in the micro-second scale.
+I build systems with strict tail-latency SLOs by redesigning operating systems mechanisms, e.g. scheduling, and network protocols to take advantage of fast commodity IO devices and in-network compute.
