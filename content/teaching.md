@@ -4,7 +4,7 @@ date: 2019-12-22T11:51:46+01:00
 draft: true
 ---
 
-Studying in EPFL gives me several opportunities for teaching and mentoring students, which I try to take advantage as much as I can.
+Studying in EPFL gives me several opportunities for teaching and mentoring students, which I try to take advantage of as much as I can.
 
 ## TAing
 * Principles of Computer Systems [CS-522](https://edu.epfl.ch/coursebook/fr/principles-of-computer-systems-CS-522) (Winter 2017,2018,2019)
