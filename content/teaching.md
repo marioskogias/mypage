@@ -23,10 +23,10 @@ Studying in EPFL gives me several opportunities for teaching and mentoring stude
 
 ### Master Projects
 
-* Mikael Morales Gonzalez, *R2P2 and UDP support in Lancet*, [Report](/morales.pdf)
-* Martin Weber, *Introducing scheduling decisions in cooperative multitasking: an automated approach*, [Report](/weber.pdf)
-* Konstantinos Tsitsimpikos, *Tail Latency Analysis on Fanout DataCenter Systems*, [Report](/tsitsimpikos.pdf)
-* Sutandi, I Made Sanadhi, *QUIC Overview*, [Report](/adhi.pdf)
+* Mikael Morales Gonzalez, *R2P2 and UDP support in Lancet*, [Report](/students/morales.pdf)
+* Martin Weber, *Introducing scheduling decisions in cooperative multitasking: an automated approach*, [Report](/students/weber.pdf)
+* Konstantinos Tsitsimpikos, *Tail Latency Analysis on Fanout DataCenter Systems*, [Report](/students/tsitsimpikos.pdf)
+* Sutandi, I Made Sanadhi, *QUIC Overview*, [Report](/students/adhi.pdf)
 
 ### Bachelor Projects
-* Charline Montial, *Webserver benchmarking with Lancet*, [Report](/montial.pdf)
+* Charline Montial, *Webserver benchmarking with Lancet*, [Report](/students/montial.pdf)

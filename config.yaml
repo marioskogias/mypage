@@ -20,6 +20,7 @@ params:
   mail: marios.kogias@epfl.ch
   scholar: "[Google Scholar](https://scholar.google.com/citations?user=DYzTOKYAAAAJ&hl=el)"
   github: "[marioskogias](https://github.com/marioskogias)"
+  profilePic: "/images/me.jpg"
   #description: An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project.
   #homeMetaContent: An accessibility-friendly Hugo theme, ported from the original Cupper project.
   footer: Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme).
@@ -43,7 +44,7 @@ menu:
       url: /teaching/
       weight: 4
     - name: CV
-      url: /marios_kogias_cv.pdf
+      url: /misc-pdfs/marios_kogias_cv.pdf
       weight: 5
 
 markup:

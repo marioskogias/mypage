@@ -16,14 +16,14 @@ draft: true
 
   <dt>ZygOS: Achieving Low Tail Latency for Microsecond-scale Networked Tasks</dt>
   <dd>George Prekas*, <strong>Marios Kogias*</strong>, Ed Bugnion <small>(*equal co-authors)</small></dd>
-  <dd>in SOSP 2017 <a href="/zygos.pdf">Paper</a></dd>
+  <dd>in SOSP 2017 <a href="/pubs/zygos.pdf">Paper</a></dd>
 </dl>
 
 ## Workshops
 <dl>
   <dt>Flow Control for Latency-Critical RPCs</dt>
   <dd><strong>Marios Kogias</strong>, Ed Bugnion</dd>
-  <dd>in KBNets@SIGCOMM2018 <a href="/kbnets.pdf">Paper</a></dd>
+  <dd>in KBNets@SIGCOMM2018 <a href="/pubs/kbnets.pdf">Paper</a></dd>
 </dl>
 
 ## Posters
