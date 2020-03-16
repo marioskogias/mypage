@@ -6,6 +6,10 @@ draft: true
 
 ## Conferences
 <dl>
+  <dt>HovercRaft: Achieving Scalability and Fault-tolerance for microsecond-scale Datacenter Services</dt>
+  <dd><strong>Marios Kogias</strong>, Ed Bugnion</dd>
+  <dd>in Eurosys 2020 <a href="#">Paper</a></dd>
+
   <dt>R2P2: Making RPCs first-class datacenter citizens</dt>
   <dd><strong>Marios Kogias</strong>, George Prekas, Adrien Ghosn, Jonas Fietz, Ed Bugnion</dd>
   <dd>in Usenix ATC 2019 <a href="https://www.usenix.org/system/files/atc19-kogias-r2p2_0.pdf">Paper</a></dd>
@@ -28,14 +32,27 @@ draft: true
 
 ## Posters
 <dl>
+  <dt>SLOG: Your switch is also your load-generator</dt>
+  <dd><strong>Marios Kogias</strong>, Marti Weber, Ed Bugnion</dd>
+  <dd>in NSDI 2020 <a href="/pubs/slog.pdf">Poster</a></dd>
+
   <dt>Measuring Latency: Am I doing it right?</dt>
   <dd><strong>Marios Kogias</strong>, Christos Kozyrakis, Ed Bugnion</dd>
-  <dd>in NSDI 2017 <a href=""https://infoscience.epfl.ch/record/231868/files/nsdi17_poster.pdf>Paper</a></dd>
+  <dd>in NSDI 2017 <a href="https://infoscience.epfl.ch/record/231868/files/nsdi17_poster.pdf">Poster</a></dd>
 </dl>
 
 ## Talks
 
 <dl>
+  <dt>Infrastructure for microsecond-scale latency experiments</dt>
+  <dd>CROSS Workshop on Practical Reproducibility in Systems Research, UCSC, February 2020</dd>
+
+  <dt>R2P2: Making RPCs first-class datacenter citizens</dt>
+  <dd>Eurosys Shadow PC Workshop, Brussels, February 2020</dd>
+
+  <dt>R2P2: Making RPCs first-class datacenter citizens</dt>
+  <dd>5th Computing Systems Research Day, NTUA, January 2020</dd>
+
   <dt>R2P2: Making RPCs first-class datacenter citizens</dt>
   <dd>Google, Mountain View, July 2019</a></dd>
 
