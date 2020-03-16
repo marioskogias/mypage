@@ -50,6 +50,9 @@ draft: true
   <dt>R2P2: Making RPCs first-class datacenter citizens</dt>
   <dd>Eurosys Shadow PC Workshop, Brussels, February 2020</dd>
 
+  <dt>Infrastructure for microsecond-scale Remote Procedure Calls</dt>
+  <dd>7th Microsoft Swiss JRC Workshop, EPFL, January 2020</dd>
+
   <dt>R2P2: Making RPCs first-class datacenter citizens</dt>
   <dd>5th Computing Systems Research Day, NTUA, January 2020</dd>
 
