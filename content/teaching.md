@@ -25,7 +25,6 @@ Studying in EPFL gives me several opportunities for teaching and mentoring stude
 ### Master Projects
 * Paul Renauld, *Implementing Exactly-Once Semantic for R2P2*, [Report](/students/renauld.pdf)
 * Guillaume Solignac, *Encrypted R2P2*, [Report](/students/solignac.pdf)
-* Matthieu De Beule, *eBPF for perfomance analysis and networking*, [Report](/students/debeule.pdf)
 * Mikael Morales Gonzalez, *TPC-C Support in Lancet*, [Report](/students/morales2.pdf)
 * Mikael Morales Gonzalez, *R2P2 and UDP support in Lancet*, [Report](/students/morales.pdf)
 * Martin Weber, *Introducing scheduling decisions in cooperative multitasking: an automated approach*, [Report](/students/weber.pdf)
@@ -33,4 +32,5 @@ Studying in EPFL gives me several opportunities for teaching and mentoring stude
 * Sutandi, I Made Sanadhi, *QUIC Overview*, [Report](/students/adhi.pdf)
 
 ### Bachelor Projects
+* Matthieu De Beule, *eBPF for perfomance analysis and networking*, [Report](/students/debeule.pdf)
 * Charline Montial, *Webserver benchmarking with Lancet*, [Report](/students/montial.pdf)
