@@ -8,7 +8,7 @@ draft: true
 <dl>
   <dt>HovercRaft: Achieving Scalability and Fault-tolerance for microsecond-scale Datacenter Services</dt>
   <dd><strong>Marios Kogias</strong>, Ed Bugnion</dd>
-  <dd>in Eurosys 2020 <a href="#">Paper</a></dd>
+  <dd>in Eurosys 2020 <strong>Best Student Paper Award!</strong> <a href="/pubs/hovercraft.pdf">Paper</a></dd>
 
   <dt>R2P2: Making RPCs first-class datacenter citizens</dt>
   <dd><strong>Marios Kogias</strong>, George Prekas, Adrien Ghosn, Jonas Fietz, Ed Bugnion</dd>
@@ -24,6 +24,12 @@ draft: true
 </dl>
 
 ## Workshops
+<dl>
+  <dt>Tail-Tolerance as a Systems Principle not a Metric</dt>
+  <dd><strong>Marios Kogias</strong>, Ed Bugnion</dd>
+  <dd>in APNet2020 <a href="/pubs/sven.pdf">Paper</a></dd>
+</dl>
+
 <dl>
   <dt>Flow Control for Latency-Critical RPCs</dt>
   <dd><strong>Marios Kogias</strong>, Ed Bugnion</dd>
