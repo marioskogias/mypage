@@ -50,6 +50,15 @@ draft: true
 ## Talks
 
 <dl>
+  <dt>HovercRaft: Achieving Scalability and Fault-tolerance for microsecond-scale Datacenter Services</dt>
+  <dd>Cambridge Systems Research Group Seminar, May 2020</dd>
+
+  <dt>HovercRaft: Achieving Scalability and Fault-tolerance for microsecond-scale Datacenter Services</dt>
+  <dd>Eurosys 2020, April 2020</dd>
+
+  <dt>Infrastructure for microsecond-scale Remote Procedure Calls</dt>
+  <dd>Microsoft Research Cambridge, March 2020</dd>
+
   <dt>Infrastructure for microsecond-scale latency experiments</dt>
   <dd>CROSS Workshop on Practical Reproducibility in Systems Research, UCSC, February 2020</dd>
 
