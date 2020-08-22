@@ -6,6 +6,10 @@ draft: true
 
 ## Conferences
 <dl>
+  <dt>Bypassing the Load Balancer without Regrets</dt>
+  <dd><strong>Marios Kogias</strong>, Rishabh Iyer, Ed Bugnion</dd>
+  <dd>in SoCC 2020 <a href="#">Paper</a></dd>
+
   <dt>HovercRaft: Achieving Scalability and Fault-tolerance for microsecond-scale Datacenter Services</dt>
   <dd><strong>Marios Kogias</strong>, Ed Bugnion</dd>
   <dd>in Eurosys 2020 <strong>Best Student Paper Award!</strong> <a href="/pubs/hovercraft.pdf">Paper</a></dd>
