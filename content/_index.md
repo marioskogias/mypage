@@ -2,8 +2,11 @@
 title: "Marios Kogias"
 ---
 
+**I am on the academic job market!**
+
 I'm a researcher in the [Confidential Computing](https://www.microsoft.com/en-us/research/theme/confidential-computing/) group at MSR Cambridge.
-During my PhD I worked with [Ed Bugnion](https://people.epfl.ch/edouard.bugnion) in [EPFL](https://www.epfl.ch/schools/ic/) as part of [DCSL](https://www.epfl.ch/labs/dcsl/) supported by an [IBM PhD Fellowship](https://www.research.ibm.com/university/awards/fellowships.html).
+I graduated from [EPFL](https://www.epfl.ch/schools/ic/) in August 2020.
+During my PhD I worked with [Ed Bugnion](https://people.epfl.ch/edouard.bugnion) as part of [DCSL](https://www.epfl.ch/labs/dcsl/) supported by an [IBM PhD Fellowship](https://www.research.ibm.com/university/awards/fellowships.html).
 I led the [TTL-MSR](https://www.microsoft.com/en-us/research/academic-program/swiss-joint-research-center/#!projects) Microsoft Swiss JRC program.
 
 Before joining EPFL, I did my undergrad in Electical and Computer Engineering in [NTUA](https://www.ece.ntua.gr/en). For my thesis I worked on [storage tracing](https://docs.ceph.com/docs/master/dev/blkin/).
