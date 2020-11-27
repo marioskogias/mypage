@@ -64,7 +64,7 @@ draft: true
 ## Talks
 
 <dl>
-  <dt>Making RPCs first-class datacenter citizens: A study on scheduling, tail-tolenrace, and fault-tolerance</dt>
+  <dt>Making RPCs first-class datacenter citizens: A study on scheduling, tail-tolerance, and fault-tolerance</dt>
   <dd>KAUST, November 2020</dd>
   <dd>Imperial, November 2020</dd>
 
