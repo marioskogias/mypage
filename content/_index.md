@@ -2,7 +2,15 @@
 title: "Marios Kogias"
 ---
 
-**I am on the academic job market!**
+<p style="border-style: solid; text-align: center;">
+<strong>I am on the academic job market!</strong>
+<br>
+<a href="/misc-pdfs/marios_kogias_cv.pdf" style="margin:5%;">CV</a>
+<a href="/misc-pdfs/research.pdf" style="margin:5%;">Research</a>
+<a href="/misc-pdfs/teaching.pdf" style="margin:5%;">Teaching</a>
+<a href="/misc-pdfs/diversity.pdf" style="margin:5%;">Diversity</a>
+</p>
+
 
 I'm a researcher in the [Confidential Computing](https://www.microsoft.com/en-us/research/theme/confidential-computing/) group at MSR Cambridge.
 I graduated from [EPFL](https://www.epfl.ch/schools/ic/) in August 2020.
