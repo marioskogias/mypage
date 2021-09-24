@@ -6,17 +6,21 @@ draft: true
 
 ## Conferences
 <dl>
+  <dt><i class='far fa-file-alt'></i> When Idling is Ideal: Optimizing Tail-Latency for Heavy-Tailed Datacenter Workloads with Perséphone</dt>
+  <dd>Henri Maxime Demoulin, Joshua Fried, Isaac Pedisich, <strong>Marios Kogias</strong>, Boon Thau Loo, Linh Thi Xuan Phan, Irene Zhang</dd>
+  <dd>in SOSP 2021 <a href="/pubs/smartharvest.pdf">Paper</a></dd>
+
   <dt><i class='far fa-file-alt'></i> Harvesting Idle CPUs Safely and Efficiently in the Cloud</dt>
   <dd>Yawen Wang, Kapil Arya, <strong>Marios Kogias</strong>, Manohar Vanga, Aditya Bhandari, Neeraja J. Yadwadkar, Siddhartha Sen, Sameh Elnikety, Christos Kozyrakis, and Ricardo Bianchini</dd>
-  <dd>in Eurosys 2021 <a href="#">Paper</a></dd>
+  <dd>in Eurosys 2021 <a href="/pubs/smartharvest.pdf">Paper</a></dd>
 
   <dt><i class='far fa-file-alt'></i> Enclosure: language-based restriction of untrusted libraries</dt>
   <dd>Adrien Ghosn, <strong>Marios Kogias</strong>, James Larus, Ed Bugnion</dd>
-  <dd>in ASPLOS 2021 <a href="#">Paper</a></dd>
+  <dd>in ASPLOS 2021 <a href="/pubs/enclosure.pdf">Paper</a></dd>
 
   <dt><i class='far fa-file-alt'></i> REAP: Record-and-Prefetch Serverless Functions Orchestration</dt>
   <dd>Dmitrii Ustiugov, Plamen Petrov, <strong>Marios Kogias</strong>, Ed Bugnion, Boris Grot</dd>
-  <dd>in ASPLOS 2021 <a href="#">Paper</a></dd>
+  <dd>in ASPLOS 2021 <a href="/pubs/reap.pdf">Paper</a></dd>
 
   <dt><i class='far fa-file-alt'></i> Bypassing the Load Balancer without Regrets</dt>
   <dd><strong>Marios Kogias</strong>, Rishabh Iyer, Ed Bugnion</dd>
