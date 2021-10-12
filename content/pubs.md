@@ -8,7 +8,7 @@ draft: true
 <dl>
   <dt><i class='far fa-file-alt'></i> When Idling is Ideal: Optimizing Tail-Latency for Heavy-Tailed Datacenter Workloads with Perséphone</dt>
   <dd>Henri Maxime Demoulin, Joshua Fried, Isaac Pedisich, <strong>Marios Kogias</strong>, Boon Thau Loo, Linh Thi Xuan Phan, Irene Zhang</dd>
-  <dd>in SOSP 2021 <a href="/pubs/smartharvest.pdf">Paper</a></dd>
+  <dd>in SOSP 2021 <a href="#">Paper</a></dd>
 
   <dt><i class='far fa-file-alt'></i> Harvesting Idle CPUs Safely and Efficiently in the Cloud</dt>
   <dd>Yawen Wang, Kapil Arya, <strong>Marios Kogias</strong>, Manohar Vanga, Aditya Bhandari, Neeraja J. Yadwadkar, Siddhartha Sen, Sameh Elnikety, Christos Kozyrakis, and Ricardo Bianchini</dd>
