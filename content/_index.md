@@ -5,6 +5,8 @@ title: "Marios Kogias"
 
 **I am joining [Imperial College London](https://www.imperial.ac.uk/) as a Lecturer in June 2022!**
 
+**I am looking for graduate students! Reach out to me if you are interested in building systems that can provide latency, fault-tolerance, and confidentiality guarantees.**
+
 I'm a researcher in the [Confidential Computing](https://www.microsoft.com/en-us/research/theme/confidential-computing/) group at MSR Cambridge.
 I graduated from [EPFL](https://www.epfl.ch/schools/ic/) in August 2020.
 During my PhD I worked with [Ed Bugnion](https://people.epfl.ch/edouard.bugnion) as part of [DCSL](https://www.epfl.ch/labs/dcsl/) supported by an [IBM PhD Fellowship](https://www.research.ibm.com/university/awards/fellowships.html).
