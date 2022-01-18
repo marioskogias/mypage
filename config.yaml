@@ -43,9 +43,9 @@ menu:
     - name: Teaching
       url: /teaching/
       weight: 4
-      #- name: CV
-      #  url: /misc-pdfs/marios_kogias_cv.pdf
-      #  weight: 5
+    - name: CV
+      url: /misc-pdfs/marioskogias_cv.pdf
+      weight: 5
 
 markup:
   defaultMarkdownHandler: goldmark
